@@ -1,3 +1,9 @@
+# Abjadiyat - Islamic Educational Platform Documentation
+
+![Abjadiyat Screenshot 1](./abjadyat.png)
+
+![Abjadiyat Screenshot 2](./abjadyat2.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
